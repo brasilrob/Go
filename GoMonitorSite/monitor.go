@@ -13,7 +13,7 @@ import (
 )
 
 const monitoramentos = 3
-const delay = 5
+const delay = 6
 
 func main() {
 	//exibeNomes()
