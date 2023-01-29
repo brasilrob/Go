@@ -1,10 +1,9 @@
 package main
 
 import (	
-	"main/models"
-	"main/db"
 	"net/http"
 	"text/template"
+	
 	"github.com/kazutec/loja/models"
 )
 
