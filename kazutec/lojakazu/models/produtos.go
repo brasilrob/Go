@@ -1,6 +1,6 @@
 package models
 
-import "github.com/kazutec/loja/db"
+import "github.com/kazutec/lojakazu/db"
 
 type Produto struct {
 	Nome       stringls
